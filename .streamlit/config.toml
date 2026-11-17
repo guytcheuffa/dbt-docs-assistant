@@ -1,0 +1,53 @@
+# Thème de l'interface (clair et sombre, accent orange inspiré de dbt)
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+font = "'IBM Plex Sans':https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+codeFont = "'JetBrains Mono':https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap"
+codeFontSize = "0.84rem"
+headingFontWeights = [700, 600, 600, 600, 500, 500]
+baseRadius = "0.6rem"
+buttonRadius = "0.6rem"
+showWidgetBorder = true
+showSidebarBorder = true
+linkUnderline = false
+
+[theme.light]
+primaryColor = "#C93D1B"
+backgroundColor = "#FBFAF7"
+secondaryBackgroundColor = "#F2EFE9"
+codeBackgroundColor = "#F2EFE9"
+textColor = "#1B1F24"
+borderColor = "#E3DED4"
+linkColor = "#C93D1B"
+
+[theme.dark]
+primaryColor = "#E5522D"
+backgroundColor = "#131518"
+secondaryBackgroundColor = "#1C1F24"
+codeBackgroundColor = "#1C1F24"
+textColor = "#ECE9E4"
+borderColor = "#2C3036"
+linkColor = "#FF8A6B"
+
+[theme.light.sidebar]
+backgroundColor = "#F2EFE9"
+secondaryBackgroundColor = "#E9E5DD"
+codeBackgroundColor = "#E9E5DD"
+textColor = "#1B1F24"
+borderColor = "#E3DED4"
+primaryColor = "#C93D1B"
+linkColor = "#C93D1B"
+
+[theme.dark.sidebar]
+backgroundColor = "#0E1012"
+secondaryBackgroundColor = "#1C1F24"
+codeBackgroundColor = "#1C1F24"
+textColor = "#ECE9E4"
+borderColor = "#2C3036"
+primaryColor = "#E5522D"
+linkColor = "#FF8A6B"

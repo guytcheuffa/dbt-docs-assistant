@@ -1,0 +1,130 @@
+﻿Réponses : qwen3.8-flash (consigne v2) | juge : qwen3.8-flash | déjà consommé : 953148 tokens
+[1/90] 7s q001 refus=False juge=yes/yes tokens=957493
+[2/90] 9s q002 refus=False juge=yes/yes tokens=958949
+[3/90] 11s q003 refus=False juge=yes/yes tokens=961976
+[4/90] 15s q004 refus=False juge=yes/yes tokens=965382
+[5/90] 24s q005 refus=False juge=yes/yes tokens=969085
+[6/90] 28s q006 refus=False juge=yes/yes tokens=973629
+[7/90] 33s q007 refus=False juge=yes/yes tokens=977123
+[8/90] 36s q008 refus=False juge=yes/yes tokens=980840
+[9/90] 39s q009 refus=False juge=yes/yes tokens=983737
+[10/90] 44s q010 refus=False juge=yes/yes tokens=986627
+[11/90] 50s q011 refus=False juge=yes/yes tokens=990135
+[12/90] 52s q012 refus=False juge=yes/yes tokens=994628
+[13/90] 61s q013 refus=False juge=yes/yes tokens=998930
+[14/90] 65s q014 refus=False juge=yes/yes tokens=1002930
+[15/90] 70s q015 refus=False juge=yes/yes tokens=1007111
+[16/90] 71s q016 refus=False juge=yes/partial tokens=1008829
+[17/90] 72s q017 refus=False juge=yes/yes tokens=1010618
+[18/90] 77s q018 refus=False juge=yes/yes tokens=1015326
+[19/90] 84s q019 refus=False juge=yes/yes tokens=1018573
+[20/90] 90s q020 refus=False juge=yes/yes tokens=1021509
+[21/90] 95s q021 refus=False juge=yes/yes tokens=1025771
+[22/90] 103s q022 refus=False juge=yes/yes tokens=1030387
+[23/90] 112s q023 refus=False juge=yes/yes tokens=1034390
+[24/90] 117s q024 refus=False juge=yes/yes tokens=1037237
+[25/90] 125s q025 refus=False juge=yes/yes tokens=1041371
+[26/90] 128s q026 refus=False juge=yes/partial tokens=1044605
+[27/90] 132s q027 refus=False juge=yes/yes tokens=1047318
+[28/90] 140s q028 refus=False juge=yes/yes tokens=1051014
+[29/90] 151s q029 refus=False juge=yes/yes tokens=1056766
+[30/90] 161s q030 refus=False juge=yes/yes tokens=1062551
+[31/90] 171s q031 refus=False juge=yes/yes tokens=1067065
+[32/90] 185s q032 refus=False juge=yes/yes tokens=1071678
+[33/90] 194s q033 refus=False juge=yes/partial tokens=1076856
+[34/90] 201s q034 refus=False juge=yes/yes tokens=1082319
+[35/90] 206s q035 refus=False juge=yes/yes tokens=1087673
+[36/90] 209s q036 refus=False juge=yes/yes tokens=1091288
+[37/90] 215s q037 refus=False juge=yes/yes tokens=1095232
+[38/90] 225s q038 refus=False juge=yes/partial tokens=1100569
+[39/90] 235s q039 refus=False juge=yes/yes tokens=1105204
+[40/90] 243s q040 refus=False juge=yes/yes tokens=1109811
+[41/90] 252s q041 refus=False juge=yes/yes tokens=1115124
+[42/90] 260s q042 refus=False juge=yes/yes tokens=1119061
+[43/90] 268s q043 refus=False juge=yes/yes tokens=1122937
+[44/90] 277s q044 refus=False juge=yes/yes tokens=1126764
+[45/90] 284s q045 refus=False juge=yes/yes tokens=1131224
+[46/90] 292s q046 refus=False juge=yes/yes tokens=1136018
+[47/90] 299s q047 refus=False juge=yes/partial tokens=1140008
+[48/90] 305s q048 refus=False juge=yes/yes tokens=1144761
+[49/90] 310s q049 refus=False juge=yes/yes tokens=1148752
+[50/90] 318s q050 refus=False juge=yes/yes tokens=1153489
+[51/90] 322s q051 refus=False juge=yes/partial tokens=1157645
+[52/90] 329s q052 refus=False juge=yes/yes tokens=1162141
+[53/90] 335s q053 refus=False juge=yes/partial tokens=1166214
+[54/90] 342s q054 refus=False juge=yes/yes tokens=1170230
+[55/90] 346s q055 refus=False juge=yes/partial tokens=1173431
+[56/90] 351s q056 refus=False juge=yes/partial tokens=1177107
+[57/90] 355s q057 refus=False juge=yes/partial tokens=1179979
+[58/90] 366s q058 refus=False juge=yes/partial tokens=1184078
+[59/90] 374s q059 refus=False juge=yes/yes tokens=1188139
+[60/90] 384s q060 refus=False juge=yes/yes tokens=1194086
+[61/90] 391s q061 refus=False juge=yes/yes tokens=1197297
+[62/90] 391s q062 refus=True juge=-/- tokens=1199501
+[63/90] 406s q063 refus=False juge=error/error tokens=1205862
+[64/90] 417s q064 refus=False juge=yes/yes tokens=1210899
+[65/90] 428s q065 refus=False juge=yes/yes tokens=1216601
+[66/90] 438s q066 refus=False juge=yes/partial tokens=1223048
+[67/90] 449s q067 refus=False juge=yes/partial tokens=1228180
+[68/90] 455s q068 refus=False juge=yes/yes tokens=1233548
+[69/90] 456s q069 refus=True juge=-/- tokens=1235131
+[70/90] 462s q070 refus=False juge=yes/yes tokens=1238806
+[71/90] 468s q071 refus=False juge=yes/yes tokens=1242640
+[72/90] 474s q072 refus=False juge=yes/no tokens=1246299
+[73/90] 480s q073 refus=False juge=yes/yes tokens=1251165
+[74/90] 485s q074 refus=False juge=yes/partial tokens=1255669
+[75/90] 488s q075 refus=False juge=yes/yes tokens=1260473
+[76/90] 496s q076 refus=False juge=yes/yes tokens=1264216
+[77/90] 504s q077 refus=False juge=yes/partial tokens=1268067
+[78/90] 506s q078 refus=False juge=yes/partial tokens=1271962
+[79/90] 507s q079 refus=True juge=-/- tokens=1274078
+[80/90] 509s q080 refus=True juge=-/- tokens=1276178
+[81/90] 510s q081 refus=True juge=-/- tokens=1277591
+[82/90] 511s q082 refus=True juge=-/- tokens=1280453
+[83/90] 512s q083 refus=True juge=-/- tokens=1282921
+[84/90] 513s q084 refus=True juge=-/- tokens=1285311
+[85/90] 516s q085 refus=True juge=-/- tokens=1287477
+[86/90] 517s q086 refus=True juge=-/- tokens=1289365
+[87/90] 517s q087 refus=True juge=-/- tokens=1290795
+[88/90] 519s q088 refus=True juge=-/- tokens=1292862
+[89/90] 520s q089 refus=True juge=-/- tokens=1294591
+[90/90] 521s q090 refus=True juge=-/- tokens=1296164
+# Génération : résultats sur 90 questions
+
+Réponses : `qwen3.8-flash` (consigne v2) ; recherche `hybrid_rerank`, 5 passages ; juge : `qwen3.8-flash`. Tokens consommés au total : 1296164.
+
+## Refus
+
+- Refus correct sur les questions sans réponse : 12/12 (100%)
+- Refus à tort sur les questions avec réponse : 2/78 (3%)
+  - dont page attendue absente du contexte (faute de la recherche) : 0
+
+## Réponses données (76 questions avec réponse, non refusées)
+
+- Au moins une citation : 76/76 (100%)
+- Page attendue citée : 69/76 (91%)
+- Fidélité aux passages (juge) : oui 75, partielle 0, non 0, illisible 1
+- Justesse vs référence (juge) : oui 58, partielle 16, non 1, illisible 1
+
+## À relire
+
+- q016 fidélité=yes justesse=partial : What information does the target variable give access to?
+- q026 fidélité=yes justesse=partial : What does the manifest.json artifact contain?
+- q033 fidélité=yes justesse=partial : How do I create a snapshot?
+- q038 fidélité=yes justesse=partial : How do I define YAML selectors?
+- q047 fidélité=yes justesse=partial : How do I use environment variables in my project?
+- q051 fidélité=yes justesse=partial : How do I set a custom alias for a model?
+- q053 fidélité=yes justesse=partial : What is the difference between a view and a table materialization?
+- q055 fidélité=yes justesse=partial : What is the difference between dbt run and dbt build?
+- q056 fidélité=yes justesse=partial : What is the difference between source() and ref()?
+- q057 fidélité=yes justesse=partial : What is the difference between a seed and a source?
+- q058 fidélité=yes justesse=partial : What incremental strategies are available and how do merge and delete+insert differ?
+- q063 fidélité=error justesse=error : How can I speed up CI by building only changed models and deferring to production?
+- q066 fidélité=yes justesse=partial : How do I version a model and keep a stable contract for consumers?
+- q067 fidélité=yes justesse=partial : How do I control access to a model and reference a model from another project?
+- q072 fidélité=yes justesse=no : How can I limit the amount of data processed in development?
+- q074 fidélité=yes justesse=partial : Why does dbt put my tables in a schema like dbt_alice_marketing instead of just marketing?
+- q077 fidélité=yes justesse=partial : How can I see the SQL that dbt generates for a model without running it?
+- q078 fidélité=yes justesse=partial : I have a small static list of country codes. Should I load it as a seed or a source?
+- q062 (refus à tort, page attendue dans le contexte : True) : What is the difference between state:modified and state:new?
+- q069 (refus à tort, page attendue dans le contexte : True) : How do I document a column and have the description stored in the warehouse?

@@ -1,0 +1,104 @@
+﻿[1/78] 12s  q001  dense=3  bm25=2  hybrid=1  hybrid_rerank=3
+[2/78] 21s  q002  dense=1  bm25=None  hybrid=4  hybrid_rerank=7
+[3/78] 28s  q003  dense=4  bm25=None  hybrid=9  hybrid_rerank=3
+[4/78] 36s  q004  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[5/78] 44s  q005  dense=1  bm25=1  hybrid=1  hybrid_rerank=2
+[6/78] 50s  q006  dense=1  bm25=2  hybrid=1  hybrid_rerank=1
+[7/78] 57s  q007  dense=2  bm25=4  hybrid=2  hybrid_rerank=2
+[8/78] 64s  q008  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[9/78] 74s  q009  dense=1  bm25=2  hybrid=1  hybrid_rerank=1
+[10/78] 89s  q010  dense=4  bm25=2  hybrid=2  hybrid_rerank=2
+[11/78] 104s  q011  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[12/78] 114s  q012  dense=6  bm25=4  hybrid=3  hybrid_rerank=5
+[13/78] 127s  q013  dense=2  bm25=1  hybrid=1  hybrid_rerank=4
+[14/78] 134s  q014  dense=1  bm25=3  hybrid=1  hybrid_rerank=1
+[15/78] 142s  q015  dense=1  bm25=1  hybrid=1  hybrid_rerank=2
+[16/78] 151s  q016  dense=1  bm25=10  hybrid=1  hybrid_rerank=1
+[17/78] 158s  q017  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[18/78] 180s  q018  dense=1  bm25=3  hybrid=1  hybrid_rerank=1
+[19/78] 196s  q019  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[20/78] 205s  q020  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[21/78] 213s  q021  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[22/78] 221s  q022  dense=1  bm25=1  hybrid=1  hybrid_rerank=2
+[23/78] 229s  q023  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[24/78] 240s  q024  dense=1  bm25=3  hybrid=1  hybrid_rerank=1
+[25/78] 252s  q025  dense=1  bm25=3  hybrid=2  hybrid_rerank=3
+[26/78] 262s  q026  dense=1  bm25=None  hybrid=3  hybrid_rerank=3
+[27/78] 285s  q027  dense=2  bm25=2  hybrid=2  hybrid_rerank=2
+[28/78] 306s  q028  dense=1  bm25=1  hybrid=1  hybrid_rerank=2
+[29/78] 320s  q029  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[30/78] 336s  q030  dense=1  bm25=4  hybrid=2  hybrid_rerank=1
+[31/78] 354s  q031  dense=5  bm25=None  hybrid=None  hybrid_rerank=1
+[32/78] 369s  q032  dense=4  bm25=1  hybrid=2  hybrid_rerank=2
+[33/78] 379s  q033  dense=2  bm25=7  hybrid=2  hybrid_rerank=1
+[34/78] 390s  q034  dense=4  bm25=3  hybrid=3  hybrid_rerank=2
+[35/78] 406s  q035  dense=1  bm25=5  hybrid=1  hybrid_rerank=1
+[36/78] 421s  q036  dense=None  bm25=None  hybrid=4  hybrid_rerank=4
+[37/78] 434s  q037  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[38/78] 450s  q038  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[39/78] 458s  q039  dense=1  bm25=3  hybrid=1  hybrid_rerank=1
+[40/78] 468s  q040  dense=1  bm25=4  hybrid=5  hybrid_rerank=1
+[41/78] 476s  q041  dense=4  bm25=None  hybrid=9  hybrid_rerank=6
+[42/78] 484s  q042  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[43/78] 491s  q043  dense=4  bm25=2  hybrid=4  hybrid_rerank=2
+[44/78] 497s  q044  dense=2  bm25=1  hybrid=1  hybrid_rerank=1
+[45/78] 504s  q045  dense=2  bm25=6  hybrid=2  hybrid_rerank=2
+[46/78] 511s  q046  dense=3  bm25=1  hybrid=1  hybrid_rerank=2
+[47/78] 519s  q047  dense=2  bm25=9  hybrid=2  hybrid_rerank=2
+[48/78] 527s  q048  dense=1  bm25=2  hybrid=1  hybrid_rerank=1
+[49/78] 534s  q049  dense=1  bm25=2  hybrid=1  hybrid_rerank=1
+[50/78] 541s  q050  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[51/78] 549s  q051  dense=4  bm25=3  hybrid=3  hybrid_rerank=4
+[52/78] 558s  q052  dense=2  bm25=1  hybrid=1  hybrid_rerank=2
+[53/78] 566s  q053  dense=1  bm25=None  hybrid=6  hybrid_rerank=2
+[54/78] 574s  q054  dense=3  bm25=3  hybrid=2  hybrid_rerank=2
+[55/78] 581s  q055  dense=5  bm25=None  hybrid=9  hybrid_rerank=3
+[56/78] 589s  q056  dense=1  bm25=None  hybrid=1  hybrid_rerank=4
+[57/78] 596s  q057  dense=1  bm25=None  hybrid=2  hybrid_rerank=5
+[58/78] 603s  q058  dense=3  bm25=1  hybrid=1  hybrid_rerank=2
+[59/78] 610s  q059  dense=2  bm25=2  hybrid=3  hybrid_rerank=1
+[60/78] 616s  q060  dense=8  bm25=7  hybrid=5  hybrid_rerank=2
+[61/78] 623s  q061  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[62/78] 630s  q062  dense=4  bm25=2  hybrid=7  hybrid_rerank=4
+[63/78] 636s  q063  dense=None  bm25=1  hybrid=10  hybrid_rerank=5
+[64/78] 642s  q064  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[65/78] 648s  q065  dense=1  bm25=5  hybrid=1  hybrid_rerank=1
+[66/78] 656s  q066  dense=5  bm25=4  hybrid=7  hybrid_rerank=4
+[67/78] 665s  q067  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[68/78] 672s  q068  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[69/78] 677s  q069  dense=1  bm25=None  hybrid=8  hybrid_rerank=1
+[70/78] 684s  q070  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[71/78] 691s  q071  dense=5  bm25=2  hybrid=2  hybrid_rerank=4
+[72/78] 697s  q072  dense=None  bm25=None  hybrid=None  hybrid_rerank=None
+[73/78] 703s  q073  dense=1  bm25=1  hybrid=1  hybrid_rerank=1
+[74/78] 711s  q074  dense=1  bm25=2  hybrid=1  hybrid_rerank=1
+[75/78] 722s  q075  dense=5  bm25=None  hybrid=None  hybrid_rerank=2
+[76/78] 730s  q076  dense=None  bm25=None  hybrid=None  hybrid_rerank=None
+[77/78] 738s  q077  dense=None  bm25=5  hybrid=None  hybrid_rerank=7
+[78/78] 745s  q078  dense=2  bm25=2  hybrid=1  hybrid_rerank=4
+# Recherche : résultats sur 78 questions avec réponse
+
+Niveau page (URL sans ancre). R@k = part des questions dont une bonne page est dans le top k.
+
+| Mode | R@1 | R@3 | R@5 | R@10 | MRR |
+|---|---|---|---|---|---|
+| dense | 0.56 | 0.74 | 0.91 | 0.94 | 0.69 |
+| bm25 | 0.38 | 0.65 | 0.76 | 0.82 | 0.53 |
+| hybrid | 0.55 | 0.77 | 0.83 | 0.94 | 0.68 |
+| hybrid_rerank | 0.49 | 0.79 | 0.94 | 0.97 | 0.67 |
+
+## Détail par groupe (R@5)
+
+| Groupe | n | dense | bm25 | hybrid | hybrid_rerank |
+|---|---|---|---|---|---|
+| formulation = doc | 72 | 0.93 | 0.76 | 0.86 | 0.96 |
+| formulation = user | 6 | 0.67 | 0.67 | 0.50 | 0.67 |
+| type = comparison | 11 | 0.91 | 0.55 | 0.73 | 1.00 |
+| type = fact | 29 | 0.97 | 0.86 | 0.97 | 0.97 |
+| type = multi_page | 10 | 0.80 | 0.80 | 0.60 | 0.90 |
+| type = procedure | 28 | 0.89 | 0.71 | 0.82 | 0.89 |
+
+## Questions ratées par hybrid_rerank (bonne page absente du top 10)
+
+- q072 : How can I limit the amount of data processed in development?
+- q076 : How do I keep a history of how a customer's address changed over time?

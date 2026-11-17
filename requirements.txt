@@ -1,0 +1,11 @@
+# Étapes 1 à 3
+pyyaml
+numpy
+fastembed
+rank-bm25
+# Étapes suivantes
+openai
+python-dotenv
+streamlit
+pandas
+pytest
