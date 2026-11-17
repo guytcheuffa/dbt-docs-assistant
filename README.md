@@ -4,6 +4,10 @@ Assistant conversationnel qui répond aux questions sur **dbt** à partir de la 
 ([docs.getdbt.com](https://docs.getdbt.com)). Chaque affirmation renvoie à la section exacte de la doc.
 Quand la documentation ne couvre pas la question, l'assistant **le dit au lieu d'inventer**.
 
+
+https://github.com/user-attachments/assets/181c1ef8-7df1-437f-8d76-0d83a5219765
+
+
 Le projet couvre toute la chaîne : ingestion de la doc, découpage, recherche hybride avec reranking,
 génération avec citations, interface locale et **évaluation sur 90 questions de référence**.
 
